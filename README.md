@@ -27,7 +27,7 @@ Note 3: For the reason explained in Note 2, at the end of each part of the scrip
 - 12. Append the "activities" variable name to the vector loaded in the previous step.
 - 13. Change the variable names to descriptive ones. (Check Code Book for details)
 
-**Part 5: Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+**Part 5: Creates a second, independent tidy data set with the average of each variable for each activity and each subject.**
 - 14. Load the subjects corresponding to the Train dataset from /UCI HAR Dataset/train/subject_train.txt
 - 15. Load the subjects corresponding to the Test dataset from /UCI HAR Dataset/test/subject_test.txt
 - 16. Append both files using rbind(), and then append it to the dataset obtained at the end of Part 4
